@@ -1,0 +1,11 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\bin\Debug\net6.0\EPM.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\bin\Debug\net6.0\EPM.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\bin\Debug\net6.0\EPM.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\refint\EPM.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\EPM.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\Herencia01\EPM\obj\Debug\net6.0\ref\EPM.dll

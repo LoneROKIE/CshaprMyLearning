@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebaEmpleadoPorComision/1.0.0": {
+        "dependencies": {
+          "EPM": "1.0.0"
+        },
+        "runtime": {
+          "PruebaEmpleadoPorComision.dll": {}
+        }
+      },
+      "EPM/1.0.0": {
+        "runtime": {
+          "EPM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaEmpleadoPorComision/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EPM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

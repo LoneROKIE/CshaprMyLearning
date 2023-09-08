@@ -1,0 +1,11 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\bin\Debug\net6.0\ClasesPracticaHerencia.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\bin\Debug\net6.0\ClasesPracticaHerencia.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\bin\Debug\net6.0\ClasesPracticaHerencia.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\refint\ClasesPracticaHerencia.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ClasesPracticaHerencia.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\PractiaHerencia\ClasesPracticaHerencia\obj\Debug\net6.0\ref\ClasesPracticaHerencia.dll

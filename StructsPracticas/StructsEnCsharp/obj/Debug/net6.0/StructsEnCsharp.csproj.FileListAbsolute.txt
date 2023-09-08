@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\bin\Debug\net6.0\StructsEnCsharp.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\bin\Debug\net6.0\StructsEnCsharp.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\bin\Debug\net6.0\StructsEnCsharp.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\bin\Debug\net6.0\StructsEnCsharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\bin\Debug\net6.0\StructsEnCsharp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\refint\StructsEnCsharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\StructsEnCsharp.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\StructsPracticas\StructsEnCsharp\obj\Debug\net6.0\ref\StructsEnCsharp.dll

@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\bin\Debug\net6.0\InterfacesPractica.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\bin\Debug\net6.0\InterfacesPractica.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\bin\Debug\net6.0\InterfacesPractica.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\bin\Debug\net6.0\InterfacesPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\bin\Debug\net6.0\InterfacesPractica.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\refint\InterfacesPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\InterfacesPractica.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\InterfacesPractica\InterfacesPractica\obj\Debug\net6.0\ref\InterfacesPractica.dll

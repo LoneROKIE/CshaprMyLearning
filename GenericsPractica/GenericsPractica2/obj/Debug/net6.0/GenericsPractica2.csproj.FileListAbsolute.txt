@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\bin\Debug\net6.0\GenericsPractica2.exe
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\bin\Debug\net6.0\GenericsPractica2.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\bin\Debug\net6.0\GenericsPractica2.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\bin\Debug\net6.0\GenericsPractica2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\bin\Debug\net6.0\GenericsPractica2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\refint\GenericsPractica2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\GenericsPractica2.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica2\obj\Debug\net6.0\ref\GenericsPractica2.dll
