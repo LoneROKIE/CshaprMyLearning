@@ -12,3 +12,17 @@ C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica\
 C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.pdb
 C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.genruntimeconfig.cache
 C:\Users\dmp12\Desktop\Programas\Programas C#\GenericsPractica\GenericsPractica\obj\Debug\net6.0\ref\GenericsPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\bin\Debug\net6.0\GenericsPractica.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\bin\Debug\net6.0\GenericsPractica.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\bin\Debug\net6.0\GenericsPractica.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\bin\Debug\net6.0\GenericsPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\bin\Debug\net6.0\GenericsPractica.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\refint\GenericsPractica.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\GenericsPractica.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\GenericsPractica\GenericsPractica\obj\Debug\net6.0\ref\GenericsPractica.dll

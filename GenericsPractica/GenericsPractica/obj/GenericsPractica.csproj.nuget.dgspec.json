@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C#\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj": {}
+    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C#\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj": {
+    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C#\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj",
+        "projectUniqueName": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj",
         "projectName": "GenericsPractica",
-        "projectPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C#\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj",
+        "projectPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\GenericsPractica\\GenericsPractica\\GenericsPractica.csproj",
         "packagesPath": "C:\\Users\\dmp12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C#\\GenericsPractica\\GenericsPractica\\obj\\",
+        "outputPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\GenericsPractica\\GenericsPractica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

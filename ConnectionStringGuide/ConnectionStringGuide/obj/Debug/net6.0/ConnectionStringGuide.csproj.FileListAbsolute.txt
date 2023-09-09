@@ -1,0 +1,12 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\bin\Debug\net6.0\ConnectionStringGuide.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\bin\Debug\net6.0\ConnectionStringGuide.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\bin\Debug\net6.0\ConnectionStringGuide.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.csproj.AssemblyReference.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\refint\ConnectionStringGuide.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ConnectionStringGuide.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\ConnectionStringGuide\ConnectionStringGuide\obj\Debug\net6.0\ref\ConnectionStringGuide.dll
