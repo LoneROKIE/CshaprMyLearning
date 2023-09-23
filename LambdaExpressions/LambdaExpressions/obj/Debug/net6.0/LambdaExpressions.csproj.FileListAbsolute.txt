@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\bin\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\refint\LambdaExpressions.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\LambdaExpressions.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\LambdaExpressions\LambdaExpressions\obj\Debug\net6.0\ref\LambdaExpressions.dll
