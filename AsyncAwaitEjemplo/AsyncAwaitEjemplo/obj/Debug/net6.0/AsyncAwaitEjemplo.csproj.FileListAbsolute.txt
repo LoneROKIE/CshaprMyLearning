@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\bin\Debug\net6.0\AsyncAwaitEjemplo.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\bin\Debug\net6.0\AsyncAwaitEjemplo.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\bin\Debug\net6.0\AsyncAwaitEjemplo.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\bin\Debug\net6.0\AsyncAwaitEjemplo.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\bin\Debug\net6.0\AsyncAwaitEjemplo.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\refint\AsyncAwaitEjemplo.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\AsyncAwaitEjemplo.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitEjemplo\AsyncAwaitEjemplo\obj\Debug\net6.0\ref\AsyncAwaitEjemplo.dll
