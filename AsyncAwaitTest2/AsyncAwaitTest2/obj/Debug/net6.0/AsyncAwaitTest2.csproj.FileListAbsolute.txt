@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\bin\Debug\net6.0\AsyncAwaitTest2.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\bin\Debug\net6.0\AsyncAwaitTest2.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\bin\Debug\net6.0\AsyncAwaitTest2.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\bin\Debug\net6.0\AsyncAwaitTest2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\bin\Debug\net6.0\AsyncAwaitTest2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\refint\AsyncAwaitTest2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\AsyncAwaitTest2.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AsyncAwaitTest2\AsyncAwaitTest2\obj\Debug\net6.0\ref\AsyncAwaitTest2.dll
