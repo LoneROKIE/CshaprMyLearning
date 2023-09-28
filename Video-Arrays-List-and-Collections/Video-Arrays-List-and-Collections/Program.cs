@@ -20,8 +20,20 @@ namespace Consola1
 
             // imprimimos la lista de nuevo
             Console.WriteLine("\n\n");
-            ImprimirLista(names);
+            
+            //ImprimirLista(names);
 
+            // usamos una expresion lambda para imprimir la lista
+            Action<List<string>> mostrarLista = (names) =>
+            {
+                foreach(var name in names)
+                {
+                    Console.WriteLine($"Hi, {name}");
+                }
+            };
+
+            // llamamos a la expresion lambda
+            mostrarLista(names);
 
         }
         // metodo para imprimir nuestra lista
