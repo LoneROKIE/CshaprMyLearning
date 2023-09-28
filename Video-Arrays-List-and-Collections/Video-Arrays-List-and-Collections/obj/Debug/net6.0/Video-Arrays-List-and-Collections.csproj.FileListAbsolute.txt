@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\bin\Debug\net6.0\Video-Arrays-List-and-Collections.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\bin\Debug\net6.0\Video-Arrays-List-and-Collections.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\bin\Debug\net6.0\Video-Arrays-List-and-Collections.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\bin\Debug\net6.0\Video-Arrays-List-and-Collections.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\bin\Debug\net6.0\Video-Arrays-List-and-Collections.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\refint\Video-Arrays-List-and-Collections.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\Video-Arrays-List-and-Collections.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\Video-Arrays-List-and-Collections\Video-Arrays-List-and-Collections\obj\Debug\net6.0\ref\Video-Arrays-List-and-Collections.dll
