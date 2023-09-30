@@ -35,6 +35,22 @@ namespace Consola1
             // llamamos a la expresion lambda
             mostrarLista(names);
 
+            // usando indexOf
+            Console.WriteLine("\n\n");
+            Console.WriteLine("IndexOf");
+
+            var index = names.IndexOf("lucas");
+            if(index == -1)
+            {
+                Console.WriteLine($"When an Item is not found, IndexOf returns {index}");
+            }
+            else
+            {
+                Console.WriteLine($"The name {names[index]}, was found at position: {index} ");
+            }
+
+
+
         }
         // metodo para imprimir nuestra lista
         static void ImprimirLista(List<string> names)
