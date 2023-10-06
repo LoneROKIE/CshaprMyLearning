@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\bin\Debug\net6.0\DictionaryHashTable.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\bin\Debug\net6.0\DictionaryHashTable.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\bin\Debug\net6.0\DictionaryHashTable.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\bin\Debug\net6.0\DictionaryHashTable.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\bin\Debug\net6.0\DictionaryHashTable.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\refint\DictionaryHashTable.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\DictionaryHashTable.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\DictionaryHashTable\DictionaryHashTable\obj\Debug\net6.0\ref\DictionaryHashTable.dll
