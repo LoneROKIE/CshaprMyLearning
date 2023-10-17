@@ -1,0 +1,17 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\bin\Debug\net6.0-windows\Ejemplo01WinForm.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\bin\Debug\net6.0-windows\Ejemplo01WinForm.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\bin\Debug\net6.0-windows\Ejemplo01WinForm.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\bin\Debug\net6.0-windows\Ejemplo01WinForm.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\bin\Debug\net6.0-windows\Ejemplo01WinForm.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.Form1.resources
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.Properties.Resources.resources
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.csproj.GenerateResource.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\refint\Ejemplo01WinForm.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\Ejemplo01WinForm.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01WinForm\obj\Debug\net6.0-windows\ref\Ejemplo01WinForm.dll

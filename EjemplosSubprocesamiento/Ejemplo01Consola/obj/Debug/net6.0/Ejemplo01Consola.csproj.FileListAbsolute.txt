@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\bin\Debug\net6.0\Ejemplo01Consola.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\bin\Debug\net6.0\Ejemplo01Consola.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\bin\Debug\net6.0\Ejemplo01Consola.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\bin\Debug\net6.0\Ejemplo01Consola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\bin\Debug\net6.0\Ejemplo01Consola.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\refint\Ejemplo01Consola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\Ejemplo01Consola.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo01Consola\obj\Debug\net6.0\ref\Ejemplo01Consola.dll

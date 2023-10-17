@@ -49,6 +49,7 @@ namespace PracticaModificarObjEnArrayEnDataGrid
             form1.Show();
             this.Hide();
 
+            
 
         }
 

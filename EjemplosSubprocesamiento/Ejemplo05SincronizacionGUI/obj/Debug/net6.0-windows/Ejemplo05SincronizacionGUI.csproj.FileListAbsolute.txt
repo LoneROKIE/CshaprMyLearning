@@ -1,0 +1,16 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\bin\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\bin\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\bin\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\bin\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\bin\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.Form1.resources
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.csproj.GenerateResource.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\refint\Ejemplo05SincronizacionGUI.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\Ejemplo05SincronizacionGUI.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo05SincronizacionGUI\obj\Debug\net6.0-windows\ref\Ejemplo05SincronizacionGUI.dll

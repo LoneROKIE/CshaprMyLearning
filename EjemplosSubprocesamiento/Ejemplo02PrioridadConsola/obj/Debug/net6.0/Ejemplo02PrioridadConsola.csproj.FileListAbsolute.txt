@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\bin\Debug\net6.0\Ejemplo02PrioridadConsola.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\bin\Debug\net6.0\Ejemplo02PrioridadConsola.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\bin\Debug\net6.0\Ejemplo02PrioridadConsola.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\bin\Debug\net6.0\Ejemplo02PrioridadConsola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\bin\Debug\net6.0\Ejemplo02PrioridadConsola.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\refint\Ejemplo02PrioridadConsola.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\Ejemplo02PrioridadConsola.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\AspNetBeginnersCourse\EjemplosSubprocesamiento\Ejemplo02PrioridadConsola\obj\Debug\net6.0\ref\Ejemplo02PrioridadConsola.dll
