@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo01Consola", "Ejemplo01Consola\Ejemplo01Consola.csproj", "{710A9BFF-23DA-4971-855D-741BC361AECD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo01Consola", "Ejemplo01Consola\Ejemplo01Consola.csproj", "{710A9BFF-23DA-4971-855D-741BC361AECD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo01WinForm", "Ejemplo01WinForm\Ejemplo01WinForm.csproj", "{3B9B0A9E-1856-4C35-B8A2-AAA04D8061AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo01WinForm", "Ejemplo01WinForm\Ejemplo01WinForm.csproj", "{3B9B0A9E-1856-4C35-B8A2-AAA04D8061AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo02PrioridadConsola", "Ejemplo02PrioridadConsola\Ejemplo02PrioridadConsola.csproj", "{E4D54AD7-07C5-4BDF-962A-86649BF4B5EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo02PrioridadConsola", "Ejemplo02PrioridadConsola\Ejemplo02PrioridadConsola.csproj", "{E4D54AD7-07C5-4BDF-962A-86649BF4B5EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo03MecanismoMutex", "Ejemplo03MecanismoMutex\Ejemplo03MecanismoMutex.csproj", "{C7FE23CA-CC5F-4840-8EB8-869BBBA2A101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo03MecanismoMutex", "Ejemplo03MecanismoMutex\Ejemplo03MecanismoMutex.csproj", "{C7FE23CA-CC5F-4840-8EB8-869BBBA2A101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo04MecanismoSemaphore", "Ejemplo04MecanismoSemaphore\Ejemplo04MecanismoSemaphore.csproj", "{1CC557F4-3ED6-4844-9FD1-A8998C77F9C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo04MecanismoSemaphore", "Ejemplo04MecanismoSemaphore\Ejemplo04MecanismoSemaphore.csproj", "{1CC557F4-3ED6-4844-9FD1-A8998C77F9C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo05SincronizacionGUI", "Ejemplo05SincronizacionGUI\Ejemplo05SincronizacionGUI.csproj", "{E2CFDFFD-1BBA-4E26-BB96-234300904526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo05SincronizacionGUI", "Ejemplo05SincronizacionGUI\Ejemplo05SincronizacionGUI.csproj", "{E2CFDFFD-1BBA-4E26-BB96-234300904526}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaMutex", "PracticaMutex\PracticaMutex.csproj", "{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaMutex2", "PracticaMutex2\PracticaMutex2.csproj", "{5E538548-2590-4175-9785-86E0B7103F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingCSharp", "MultithreadingCSharp\MultithreadingCSharp.csproj", "{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{E2CFDFFD-1BBA-4E26-BB96-234300904526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2CFDFFD-1BBA-4E26-BB96-234300904526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2CFDFFD-1BBA-4E26-BB96-234300904526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E538548-2590-4175-9785-86E0B7103F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E538548-2590-4175-9785-86E0B7103F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E538548-2590-4175-9785-86E0B7103F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E538548-2590-4175-9785-86E0B7103F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

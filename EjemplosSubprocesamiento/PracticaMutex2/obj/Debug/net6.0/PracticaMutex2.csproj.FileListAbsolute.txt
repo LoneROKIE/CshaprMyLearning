@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\bin\Debug\net6.0\PracticaMutex2.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\bin\Debug\net6.0\PracticaMutex2.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\bin\Debug\net6.0\PracticaMutex2.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\bin\Debug\net6.0\PracticaMutex2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\bin\Debug\net6.0\PracticaMutex2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\refint\PracticaMutex2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\PracticaMutex2.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\PracticaMutex2\obj\Debug\net6.0\ref\PracticaMutex2.dll

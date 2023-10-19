@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\bin\Debug\net6.0\MultithreadingCSharp.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\bin\Debug\net6.0\MultithreadingCSharp.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\bin\Debug\net6.0\MultithreadingCSharp.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\bin\Debug\net6.0\MultithreadingCSharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\bin\Debug\net6.0\MultithreadingCSharp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\refint\MultithreadingCSharp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\MultithreadingCSharp.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\EjemplosSubprocesamiento\MultithreadingCSharp\obj\Debug\net6.0\ref\MultithreadingCSharp.dll

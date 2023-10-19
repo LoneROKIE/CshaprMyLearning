@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetBeginnersCourse\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj": {}
+    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetBeginnersCourse\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj": {
+    "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetBeginnersCourse\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj",
+        "projectUniqueName": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj",
         "projectName": "Ejemplo01Consola",
-        "projectPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetBeginnersCourse\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj",
+        "projectPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\EjemplosSubprocesamiento\\Ejemplo01Consola\\Ejemplo01Consola.csproj",
         "packagesPath": "C:\\Users\\dmp12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetBeginnersCourse\\EjemplosSubprocesamiento\\Ejemplo01Consola\\obj\\",
+        "outputPath": "C:\\Users\\dmp12\\Desktop\\Programas\\Programas C# 2\\CshaprMyLearning\\EjemplosSubprocesamiento\\Ejemplo01Consola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
