@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Ejemplo05SincronizacionGUI",
+    "\\MultithreadingCSharp",
     "\\PracticaMutex"
   ],
-  "SelectedNode": "\\PracticaMutex\\Program.cs",
+  "SelectedNode": "\\MultithreadingCSharp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

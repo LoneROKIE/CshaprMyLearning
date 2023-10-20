@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejemplo05SincronizacionGUI"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaMutex", "PracticaMutex\PracticaMutex.csproj", "{30DA39A7-B326-4CA5-9C4E-B1DCCC39C324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaMutex2", "PracticaMutex2\PracticaMutex2.csproj", "{5E538548-2590-4175-9785-86E0B7103F12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PracticaMutex2", "PracticaMutex2\PracticaMutex2.csproj", "{5E538548-2590-4175-9785-86E0B7103F12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingCSharp", "MultithreadingCSharp\MultithreadingCSharp.csproj", "{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultithreadingCSharp", "MultithreadingCSharp\MultithreadingCSharp.csproj", "{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaMultithread2", "PracticaMultithread2\PracticaMultithread2.csproj", "{0B34E570-3F56-454E-BE41-8B3884B0D890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E67856-6FD9-4BBC-9A41-6C43F2CA080A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B34E570-3F56-454E-BE41-8B3884B0D890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B34E570-3F56-454E-BE41-8B3884B0D890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B34E570-3F56-454E-BE41-8B3884B0D890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B34E570-3F56-454E-BE41-8B3884B0D890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
