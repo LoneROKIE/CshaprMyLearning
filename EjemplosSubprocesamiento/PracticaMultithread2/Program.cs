@@ -16,9 +16,7 @@ public class Principal
         hilo1.Join();
         hilo2.Start();
         //hilo2.Join();
-      
-   
-   
+
     }
 
     public static void PidePalabra(List<string> palabras)

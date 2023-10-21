@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\bin\Debug\net6.0\cliente.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\bin\Debug\net6.0\cliente.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\bin\Debug\net6.0\cliente.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\bin\Debug\net6.0\cliente.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\bin\Debug\net6.0\cliente.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\refint\cliente.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\cliente.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\cliente\cliente\obj\Debug\net6.0\ref\cliente.dll

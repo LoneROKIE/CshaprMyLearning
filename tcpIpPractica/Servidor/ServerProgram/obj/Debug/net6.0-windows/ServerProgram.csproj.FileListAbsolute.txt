@@ -1,0 +1,16 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\bin\Debug\net6.0-windows\ServerProgram.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\bin\Debug\net6.0-windows\ServerProgram.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\bin\Debug\net6.0-windows\ServerProgram.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\bin\Debug\net6.0-windows\ServerProgram.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\bin\Debug\net6.0-windows\ServerProgram.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.Form1.resources
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.csproj.GenerateResource.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\refint\ServerProgram.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ServerProgram.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Servidor\ServerProgram\obj\Debug\net6.0-windows\ref\ServerProgram.dll

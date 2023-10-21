@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\bin\Debug\net6.0\practica2TcpClientListener.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\bin\Debug\net6.0\practica2TcpClientListener.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\bin\Debug\net6.0\practica2TcpClientListener.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\bin\Debug\net6.0\practica2TcpClientListener.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\bin\Debug\net6.0\practica2TcpClientListener.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\refint\practica2TcpClientListener.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\practica2TcpClientListener.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\practica2TcpClientListener\practica2TcpClientListener\obj\Debug\net6.0\ref\practica2TcpClientListener.dll
