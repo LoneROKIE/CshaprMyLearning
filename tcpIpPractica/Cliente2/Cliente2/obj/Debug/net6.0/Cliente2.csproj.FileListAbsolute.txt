@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\bin\Debug\net6.0\Cliente2.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\bin\Debug\net6.0\Cliente2.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\bin\Debug\net6.0\Cliente2.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\bin\Debug\net6.0\Cliente2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\bin\Debug\net6.0\Cliente2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\refint\Cliente2.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\Cliente2.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\tcpIpPractica\Cliente2\Cliente2\obj\Debug\net6.0\ref\Cliente2.dll

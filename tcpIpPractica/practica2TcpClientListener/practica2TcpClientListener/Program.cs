@@ -16,14 +16,19 @@ try
 {
     listener.Start();
 
-    using TcpClient handler = await listener.AcceptTcpClientAsync();
-    await using NetworkStream stream = handler.GetStream();
+    while (true)
+    {
 
-    var message = "Hola estas conectado al server tcp";
-    var data = Encoding.UTF8.GetBytes(message);
-    await stream.WriteAsync(data, 0, data.Length);
+    
+        using TcpClient handler = await listener.AcceptTcpClientAsync();
+        await using NetworkStream stream = handler.GetStream();
 
-    Console.WriteLine("Mensaje enviado: {0}", message);
+        var message = "Hola estas conectado al server tcp";
+        var data = Encoding.UTF8.GetBytes(message);
+        await stream.WriteAsync(data, 0, data.Length);
+
+        Console.WriteLine("Mensaje enviado: {0}", message);
+    }
 }
 catch (Exception ex)
 {

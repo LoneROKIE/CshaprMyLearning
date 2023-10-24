@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\bin\Debug\net6.0\PracticaTcp.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\bin\Debug\net6.0\PracticaTcp.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\bin\Debug\net6.0\PracticaTcp.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\bin\Debug\net6.0\PracticaTcp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\bin\Debug\net6.0\PracticaTcp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\refint\PracticaTcp.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\PracticaTcp.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\PracticaTcp\PracticaTcp\obj\Debug\net6.0\ref\PracticaTcp.dll

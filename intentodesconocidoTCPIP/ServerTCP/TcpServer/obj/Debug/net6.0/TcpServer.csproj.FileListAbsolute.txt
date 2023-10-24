@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\bin\Debug\net6.0\TcpServer.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\bin\Debug\net6.0\TcpServer.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\bin\Debug\net6.0\TcpServer.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\bin\Debug\net6.0\TcpServer.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\bin\Debug\net6.0\TcpServer.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.AssemblyInfo.cs
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\refint\TcpServer.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\TcpServer.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\intentodesconocidoTCPIP\ServerTCP\TcpServer\obj\Debug\net6.0\ref\TcpServer.dll
