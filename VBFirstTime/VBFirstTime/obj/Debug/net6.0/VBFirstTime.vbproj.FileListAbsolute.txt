@@ -1,0 +1,14 @@
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\bin\Debug\net6.0\VBFirstTime.exe
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\bin\Debug\net6.0\VBFirstTime.deps.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\bin\Debug\net6.0\VBFirstTime.runtimeconfig.json
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\bin\Debug\net6.0\VBFirstTime.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\bin\Debug\net6.0\VBFirstTime.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.AssemblyInfoInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.AssemblyInfo.vb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.vbproj.CoreCompileInputs.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\refint\VBFirstTime.dll
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.pdb
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\VBFirstTime.genruntimeconfig.cache
+C:\Users\dmp12\Desktop\Programas\Programas C# 2\CshaprMyLearning\VBFirstTime\VBFirstTime\obj\Debug\net6.0\ref\VBFirstTime.dll
