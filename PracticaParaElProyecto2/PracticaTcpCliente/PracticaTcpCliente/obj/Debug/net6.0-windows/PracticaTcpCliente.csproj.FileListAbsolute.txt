@@ -1,0 +1,16 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\PracticaTcpCliente.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\PracticaTcpCliente.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\PracticaTcpCliente.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\PracticaTcpCliente.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\PracticaTcpCliente.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.Form1.resources
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.csproj.GenerateResource.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\refint\PracticaTcpCliente.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\ref\PracticaTcpCliente.dll

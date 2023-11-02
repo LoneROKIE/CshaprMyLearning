@@ -1,0 +1,14 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\bin\Debug\net6.0\WorkingWithEFCore.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\bin\Debug\net6.0\WorkingWithEFCore.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\bin\Debug\net6.0\WorkingWithEFCore.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\bin\Debug\net6.0\WorkingWithEFCore.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\bin\Debug\net6.0\WorkingWithEFCore.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\refint\WorkingWithEFCore.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EntityFrameworkCoreLearning\Chapter10Book\WorkingWithEFCore\obj\Debug\net6.0\ref\WorkingWithEFCore.dll
