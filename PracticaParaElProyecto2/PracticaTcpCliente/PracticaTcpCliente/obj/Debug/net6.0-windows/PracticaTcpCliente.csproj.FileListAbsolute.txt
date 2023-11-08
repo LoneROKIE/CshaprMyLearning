@@ -14,3 +14,6 @@ D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.pdb
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.genruntimeconfig.cache
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\ref\PracticaTcpCliente.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.csproj.AssemblyReference.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpCliente\PracticaTcpCliente\obj\Debug\net6.0-windows\PracticaTcpCliente.csproj.CopyComplete

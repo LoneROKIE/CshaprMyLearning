@@ -1,0 +1,14 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\bin\Debug\net6.0\ProyectoInutil1.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\bin\Debug\net6.0\ProyectoInutil1.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\bin\Debug\net6.0\ProyectoInutil1.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\bin\Debug\net6.0\ProyectoInutil1.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\bin\Debug\net6.0\ProyectoInutil1.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\refint\ProyectoInutil1.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ProyectoInutil1.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ProyectoInutil1\ProyectoInutil1\obj\Debug\net6.0\ref\ProyectoInutil1.dll

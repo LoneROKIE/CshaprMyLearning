@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GP/fdjrLJJdTtMXAZRI6CJhQ1g4sxxRtz86+q7Akpj36AX26wDRuuMHbYe6OC4zMMI0x/LJEsy5BRlYZl4r1Eg==",
+  "dgSpecHash": "/cKwMKu/Fb1ZmvANDr81xWYq9oOwLXq4HLGduJcCOUinhWAzQuBSXPLIc3nT7lyqt/5nF3+cjU9C3JFBG30XuQ==",
   "success": true,
   "projectFilePath": "D:\\Escritorio\\Programas\\Programas C# 2\\CshaprMyLearning\\PracticaParaElProyecto2\\PracticaTcpCliente\\PracticaTcpCliente\\PracticaTcpCliente.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dmp12\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

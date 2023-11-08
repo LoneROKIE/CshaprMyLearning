@@ -14,3 +14,13 @@ D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.pdb
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.genruntimeconfig.cache
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\ref\PracticaTcpServer.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\PracticaTcpServer.dll.config
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.csproj.AssemblyReference.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.csproj.CopyComplete
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll

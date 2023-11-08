@@ -1,3 +1,4 @@
+using Newtonsoft.Json;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
@@ -8,54 +9,88 @@ namespace PracticaTcpServer
     {
         public Form1()
         {
+            
             InitializeComponent();
         }
 
+
+
         private void btnEncender_Click(object sender, EventArgs e)
         {
-           Thread th =  new Thread(EncenderServidor);
+            Thread th = new Thread(EncenderServidor);
             th.Start();
         }
 
         // metodo para encender el servidor y escuchar peticiones
         private async void EncenderServidor()
         {
-          
             try
             {
-                // se crea un objeto de la clase TcpListener
                 TcpListener servidor = new TcpListener(IPAddress.Any, 9999);
-                servidor.Start(); // se inicia el servidor
-                // ciclo infinito para escuchar peticiones
+                servidor.Start();
+
                 while (true)
                 {
-                    using TcpClient client = await servidor.AcceptTcpClientAsync(); // acepta la peticion
+                    using TcpClient client = await servidor.AcceptTcpClientAsync();
                     richTextBox1.AppendText("Cliente conectado" + Environment.NewLine);
-                    using NetworkStream stream = client.GetStream(); // obtiene el flujo de datos
-                    // que es el flujo de datos ?
-                    // es un flujo de datos que se envia y recibe por medio de la red 
-                    // es decir, es un flujo de datos que se envia y recibe por medio de internet
 
-                    // buffer para almacenar los datos que envia el cliente
-                    byte[] buffer = new byte[1024]; // buffer para almacenar los datos que envia el cliente
-                    int byteLeidos = await stream.ReadAsync(buffer, 0, buffer.Length); // lee los datos que envia el cliente
+                    using NetworkStream stream = client.GetStream();
 
-                    // se crea un objeto de la clase StreamReader para leer los datos que envia el cliente
-                    using StreamReader reader = new StreamReader(stream);
+                    byte[] buffer = new byte[4]; // Para leer la longitud de los datos
+                    int bytesRead = await stream.ReadAsync(buffer, 0, 4);
+                    int dataLength = BitConverter.ToInt32(buffer, 0);
 
-                    // convertimos los datos que envia el cliente a string
-                    string dataReceived = Encoding.ASCII.GetString(buffer, 0, byteLeidos);
+                    buffer = new byte[dataLength]; // Para leer los datos
+                    bytesRead = await stream.ReadAsync(buffer, 0, dataLength);
+                    string dataReceived = Encoding.UTF8.GetString(buffer);
 
-                    // usamos los datos que envia el cliente
-                    richTextBox1.AppendText("Cliente dice: " + dataReceived + Environment.NewLine);
+                    int identificacion = int.Parse(dataReceived);
 
+                    // Simula obtener la información de la base de datos
+                    Persona persona = new Persona();
+                    persona = StringConn.GetPersona(identificacion);
+
+                    string personaString = JsonConvert.SerializeObject(persona);
+
+                    buffer = Encoding.UTF8.GetBytes(personaString);
+
+                    // Envía la longitud de los datos
+                    await stream.WriteAsync(BitConverter.GetBytes(buffer.Length), 0, 4);
+
+                    // Envía los datos
+                    await stream.WriteAsync(buffer, 0, buffer.Length);
+
+                    richTextBox1.AppendText("Datos enviados al cliente" + Environment.NewLine);
                 }
-
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
+        }
 
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // cargamos el datagridview con los datos de la base de datos
+            dataGridView1.DataSource = StringConn.GetPersonas();
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            // obtenemos los valores de los textbox
+            int identificacion = int.Parse(textBoxIdentificacion.Text);
+            string nombre = textBoxNombre.Text;
+            string apellido1 = textBoxApellido1.Text;
+            string apellido2 = textBoxApellido2.Text;
+
+            // guardamos la persona en la base de datos
+            StringConn.SavePerson(identificacion, nombre, apellido1, apellido2);
+            // mostramos un mensaje
+            MessageBox.Show("Persona guardada en la base de datos");
+
+            dataGridView1.DataSource = StringConn.GetPersonas(); // actualizamos el datagridview
+            
         }
     }
 }
