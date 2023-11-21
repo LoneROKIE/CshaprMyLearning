@@ -40,6 +40,9 @@
             textBoxNombre = new TextBox();
             textBoxApe1 = new TextBox();
             textBoxApe2 = new TextBox();
+            dataGridView1 = new DataGridView();
+            buttonConsultarTodosLosClientes = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // textBox1
@@ -151,11 +154,33 @@
             textBoxApe2.Size = new Size(179, 32);
             textBoxApe2.TabIndex = 13;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(357, 209);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.RowTemplate.Height = 29;
+            dataGridView1.Size = new Size(430, 188);
+            dataGridView1.TabIndex = 14;
+            // 
+            // buttonConsultarTodosLosClientes
+            // 
+            buttonConsultarTodosLosClientes.Location = new Point(357, 158);
+            buttonConsultarTodosLosClientes.Name = "buttonConsultarTodosLosClientes";
+            buttonConsultarTodosLosClientes.Size = new Size(94, 29);
+            buttonConsultarTodosLosClientes.TabIndex = 15;
+            buttonConsultarTodosLosClientes.Text = "Consultar Clientes";
+            buttonConsultarTodosLosClientes.UseVisualStyleBackColor = true;
+            buttonConsultarTodosLosClientes.Click += buttonConsultarTodosLosClientes_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(438, 434);
+            ClientSize = new Size(799, 434);
+            Controls.Add(buttonConsultarTodosLosClientes);
+            Controls.Add(dataGridView1);
             Controls.Add(textBoxApe2);
             Controls.Add(textBoxApe1);
             Controls.Add(textBoxNombre);
@@ -170,6 +195,7 @@
             Controls.Add(textBox1);
             Name = "Form1";
             Text = "Cliente";
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -188,5 +214,7 @@
         private TextBox textBoxNombre;
         private TextBox textBoxApe1;
         private TextBox textBoxApe2;
+        private DataGridView dataGridView1;
+        private Button buttonConsultarTodosLosClientes;
     }
 }

@@ -33,8 +33,10 @@ namespace PracticaTcpCliente
                 byte[] msgBytes = Encoding.UTF8.GetBytes(msg);
                 n.Write(msgBytes, 0, msgBytes.Length);
 
+                // Recibe la longitud de los datos
                 BinaryReader r = new BinaryReader(n);
 
+                // Recibe los datos
                 int dataLength = r.ReadInt32();
                 byte[] dataBuffer = new byte[dataLength];
                 r.Read(dataBuffer, 0, dataLength);
@@ -52,6 +54,44 @@ namespace PracticaTcpCliente
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void buttonConsultarTodosLosClientes_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = ConsultarTodasLasPersonas();
+            
+        }
+
+        public List<Persona> ConsultarTodasLasPersonas()
+        {
+            // le solicitamos al servidor que nos envie las lista de Persona
+            // para ello le enviamos el mensaje ConsultarTodosLosClientes
+            // y el servidor nos envia la lista de Persona
+            using (TcpClient client = new TcpClient("localhost", 9999))
+            using (NetworkStream n = client.GetStream())
+            {
+                MensajesServidor<List<Persona>> mensajesServidor = new MensajesServidor<List<Persona>> { Metodo = "ConsultarClientes" };
+
+                string msg = JsonConvert.SerializeObject(mensajesServidor);
+                StreamWriter writer = new StreamWriter(n);
+                writer.WriteLine(msg);
+                writer.Flush();
+
+                // Recibe la longitud de los datos
+                BinaryReader r = new BinaryReader(n);
+
+                // Recibe los datos
+                int dataLength = r.ReadInt32();
+                byte[] dataBuffer = new byte[dataLength];
+                r.Read(dataBuffer, 0, dataLength);
+                string personaString = Encoding.UTF8.GetString(dataBuffer);
+
+                List<Persona> personas = JsonConvert.DeserializeObject<List<Persona>>(personaString);
+
+                return personas;
+
+
+            }
         }
     }
 

@@ -24,3 +24,4 @@ D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.csproj.AssemblyReference.cache
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.csproj.CopyComplete
 D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\PracticaParaElProyecto2\PracticaTcpServer\PracticaTcpServer\obj\Debug\net6.0-windows\PracticaTcpServer.sourcelink.json
