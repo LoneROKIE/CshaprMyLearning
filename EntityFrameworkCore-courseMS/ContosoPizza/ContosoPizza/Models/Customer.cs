@@ -12,6 +12,7 @@ namespace ContosoPizza.Models
         public string FirstName { get; set; } = null!; // null! es para que no de error de que puede ser null
         public string LastName { get; set; } = null!;
         public string? Address { get; set; }
+        public string? Email { get; set; }
         public string? Phone { get; set; }
         // ICollection es una interfaz que nos permite crear una lista de objetos para poder acceder a ellos
         public ICollection<Order> Orders { get; set; } = null!;

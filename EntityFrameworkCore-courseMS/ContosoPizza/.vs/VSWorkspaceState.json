@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ContosoPizza",
-    "\\ContosoPizza\\Data"
+    "\\ContosoPizza\\Data",
+    "\\ContosoPizza\\Models"
   ],
-  "SelectedNode": "\\ContosoPizza.sln",
+  "SelectedNode": "\\ContosoPizza\\Data\\ContosoPizzaContext.cs",
   "PreviewInSolutionExplorer": false
 }
