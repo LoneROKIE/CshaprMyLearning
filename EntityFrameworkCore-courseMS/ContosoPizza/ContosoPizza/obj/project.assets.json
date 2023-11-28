@@ -2014,7 +2014,7 @@
   },
   "packageFolders": {
     "C:\\Users\\dmp12\\.nuget\\packages\\": {},
-    "D:\\juegos\\visual studio cosas\\sdks\\NuGetPackages": {}
+    "D:\\Libros\\sdksVisualStudio\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2026,7 +2026,7 @@
       "outputPath": "D:\\Escritorio\\Programas\\Programas C# 2\\CshaprMyLearning\\EntityFrameworkCore-courseMS\\ContosoPizza\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\juegos\\visual studio cosas\\sdks\\NuGetPackages"
+        "D:\\Libros\\sdksVisualStudio\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\dmp12\\AppData\\Roaming\\NuGet\\NuGet.Config",
