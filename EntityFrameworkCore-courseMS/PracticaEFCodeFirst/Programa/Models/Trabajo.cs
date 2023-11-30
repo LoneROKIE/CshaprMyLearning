@@ -11,6 +11,7 @@ namespace Entidades.Models
     public class Trabajo
     {
         [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int IdTrabajo { get; set; }
         public string NombreTrabajo { get; set; }
         public string Descripcion { get; set; }
@@ -19,7 +20,9 @@ namespace Entidades.Models
 
         // propiedades de navegacion
         public Persona Persona { get; set; } = null!;
-        
+
+        // lista de trabajos
+        public List<Trabajo> trabajos { get; } = new();
         
 
     }
