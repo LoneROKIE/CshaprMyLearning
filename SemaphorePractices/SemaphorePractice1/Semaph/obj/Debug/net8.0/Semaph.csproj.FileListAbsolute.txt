@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\bin\Debug\net8.0\Semaph.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\bin\Debug\net8.0\Semaph.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\bin\Debug\net8.0\Semaph.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\bin\Debug\net8.0\Semaph.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\bin\Debug\net8.0\Semaph.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\refint\Semaph.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\Semaph.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\Semaph\obj\Debug\net8.0\ref\Semaph.dll

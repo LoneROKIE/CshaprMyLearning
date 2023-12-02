@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaph", "Semaph\Semaph.csproj", "{DE7FFEE4-CC50-4D4A-AAE1-27B534708B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphorePractice2", "SemaphorePractice2\SemaphorePractice2.csproj", "{EE01EC3A-AD90-46E1-A0B1-8EE2A265285E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE7FFEE4-CC50-4D4A-AAE1-27B534708B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7FFEE4-CC50-4D4A-AAE1-27B534708B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7FFEE4-CC50-4D4A-AAE1-27B534708B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7FFEE4-CC50-4D4A-AAE1-27B534708B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE01EC3A-AD90-46E1-A0B1-8EE2A265285E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE01EC3A-AD90-46E1-A0B1-8EE2A265285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE01EC3A-AD90-46E1-A0B1-8EE2A265285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE01EC3A-AD90-46E1-A0B1-8EE2A265285E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B74538F-241E-4599-9D04-E0DA3585DD53}
+	EndGlobalSection
+EndGlobal

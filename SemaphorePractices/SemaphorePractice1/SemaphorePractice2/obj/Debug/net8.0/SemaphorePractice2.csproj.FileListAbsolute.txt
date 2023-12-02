@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\bin\Debug\net8.0\SemaphorePractice2.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\bin\Debug\net8.0\SemaphorePractice2.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\bin\Debug\net8.0\SemaphorePractice2.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\bin\Debug\net8.0\SemaphorePractice2.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\bin\Debug\net8.0\SemaphorePractice2.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\refint\SemaphorePractice2.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\SemaphorePractice2.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\SemaphorePractice1\SemaphorePractice2\obj\Debug\net8.0\ref\SemaphorePractice2.dll
