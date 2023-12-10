@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\bin\Debug\net8.0\EncriptadorDesencriptadorDeStrings.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\bin\Debug\net8.0\EncriptadorDesencriptadorDeStrings.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\bin\Debug\net8.0\EncriptadorDesencriptadorDeStrings.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\bin\Debug\net8.0\EncriptadorDesencriptadorDeStrings.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\bin\Debug\net8.0\EncriptadorDesencriptadorDeStrings.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\refint\EncriptadorDesencriptadorDeStrings.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\EncriptadorDesencriptadorDeStrings.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\EncriptadorDesencriptadorDeStrings\EncriptadorDesencriptadorDeStrings\obj\Debug\net8.0\ref\EncriptadorDesencriptadorDeStrings.dll

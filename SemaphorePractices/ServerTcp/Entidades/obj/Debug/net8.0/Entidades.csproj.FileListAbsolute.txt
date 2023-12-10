@@ -1,0 +1,13 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\bin\Debug\net8.0\Entidades.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\bin\Debug\net8.0\Entidades.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\bin\Debug\net8.0\Entidades.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\Entidades.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\SemaphorePractices\ServerTcp\Entidades\obj\Debug\net8.0\ref\Entidades.dll
