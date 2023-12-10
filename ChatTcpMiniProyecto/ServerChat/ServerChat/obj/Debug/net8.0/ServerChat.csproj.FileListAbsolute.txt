@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\bin\Debug\net8.0\ServerChat.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\bin\Debug\net8.0\ServerChat.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\bin\Debug\net8.0\ServerChat.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\bin\Debug\net8.0\ServerChat.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\bin\Debug\net8.0\ServerChat.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\refint\ServerChat.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ServerChat.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ServerChat\ServerChat\obj\Debug\net8.0\ref\ServerChat.dll

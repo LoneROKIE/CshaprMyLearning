@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\bin\Debug\net8.0\ClientChatTcp.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\bin\Debug\net8.0\ClientChatTcp.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\bin\Debug\net8.0\ClientChatTcp.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\bin\Debug\net8.0\ClientChatTcp.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\bin\Debug\net8.0\ClientChatTcp.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\refint\ClientChatTcp.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ClientChatTcp.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\ChatTcpMiniProyecto\ClientChatTcp\ClientChatTcp\obj\Debug\net8.0\ref\ClientChatTcp.dll
