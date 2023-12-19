@@ -1,0 +1,58 @@
+﻿
+@* The @model expression specifies that the view expects to receive a GuestResponse object as its view
+model.
+*@
+
+@model PartyInvites.Models.GuestResponse
+@{
+    Layout = null;
+}
+
+<!Doctype html>
+<html>
+<head>
+    
+            <meta name="viewport" content="width=device-width" />
+            <title>RsvpForm</title>
+    
+        </head>
+    
+        <body>
+                <form asp-action="RsvpForm" method="post">
+                   <div>
+                        <div>
+                            <label asp-for="Name">Your Name:</label>
+                            <input asp-for="Name" type="text" />
+                            <span> @Html.ValidationMessageFor(m => m.Name)</span>
+                        </div>
+
+                        <div>
+                            <label asp-for="Email">Your Email:</label>
+                            <input asp-for="Email" type="text" />
+                            <span> @Html.ValidationMessageFor(m => m.Email)</span>
+                        </div>
+
+                        <div>
+                            <label asp-for="Phone">Your Phone:</label>
+                            <input asp-for="Phone" type="text" />
+                            <span> @Html.ValidationMessageFor(m => m.Phone)</span>
+                        </div>
+
+                        <div>
+                            <label asp-for="WillAttend">Will you attend</label>
+                            <select asp-for="WillAttend">
+                                <option value="">Choose an option</option>
+                                <option value="true">Yes, I'll be there</option>
+                                <option value="false">No, I can't come</option>
+                            </select>
+                            <span> @Html.ValidationMessageFor(m => m.WillAttend)</span>
+                        </div>
+                        <button type="submit" >Submit RSVP</button>
+                   </div>
+
+
+                </form>
+ 
+    
+        </body>
+</html>
