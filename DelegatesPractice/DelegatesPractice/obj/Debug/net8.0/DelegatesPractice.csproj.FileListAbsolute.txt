@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\bin\Debug\net8.0\DelegatesPractice.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\bin\Debug\net8.0\DelegatesPractice.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\bin\Debug\net8.0\DelegatesPractice.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\bin\Debug\net8.0\DelegatesPractice.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\bin\Debug\net8.0\DelegatesPractice.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\refint\DelegatesPractice.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\DelegatesPractice.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\DelegatesPractice\DelegatesPractice\obj\Debug\net8.0\ref\DelegatesPractice.dll
