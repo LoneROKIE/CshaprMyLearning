@@ -14,40 +14,42 @@ model.
     
             <meta name="viewport" content="width=device-width" />
             <title>RsvpForm</title>
-    
+            <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+            <link rel="stylesheet" href="/css/Style.css">           
         </head>
     
         <body>
-                <form asp-action="RsvpForm" method="post">
-                   <div>
+                <h5 class="bg-primary text-white text-center m-2 p-2">RSVP</h5>
+                <form asp-action="RsvpForm" method="post" class="m-2">
+                   <div class="form-group">
                         <div>
-                            <label asp-for="Name">Your Name:</label>
-                            <input asp-for="Name" type="text" />
+                            <label asp-for="Name" class="form-label" >Your Name:</label>
+                            <input asp-for="Name" type="text" class="form-control"/>
                             <span> @Html.ValidationMessageFor(m => m.Name)</span>
                         </div>
 
-                        <div>
-                            <label asp-for="Email">Your Email:</label>
-                            <input asp-for="Email" type="text" />
+                        <div class="form-group">
+                            <label asp-for="Email" class="form-label">Your Email:</label>
+                            <input asp-for="Email" type="text" class="form-control"/>
                             <span> @Html.ValidationMessageFor(m => m.Email)</span>
                         </div>
 
-                        <div>
-                            <label asp-for="Phone">Your Phone:</label>
-                            <input asp-for="Phone" type="text" />
+                        <div class="form-group">
+                            <label asp-for="Phone" class="form-label">Your Phone:</label>
+                            <input asp-for="Phone" type="text" class="form-control" />
                             <span> @Html.ValidationMessageFor(m => m.Phone)</span>
                         </div>
 
-                        <div>
-                            <label asp-for="WillAttend">Will you attend</label>
-                            <select asp-for="WillAttend">
+                        <div class="form-group">
+                            <label asp-for="WillAttend" class="form-label">Will you attend</label>
+                            <select asp-for="WillAttend" class="form-control">
                                 <option value="">Choose an option</option>
                                 <option value="true">Yes, I'll be there</option>
                                 <option value="false">No, I can't come</option>
                             </select>
                             <span> @Html.ValidationMessageFor(m => m.WillAttend)</span>
                         </div>
-                        <button type="submit" >Submit RSVP</button>
+                        <button type="submit" class="btn btn-primary mt-3" >Submit RSVP</button>
                    </div>
 
 

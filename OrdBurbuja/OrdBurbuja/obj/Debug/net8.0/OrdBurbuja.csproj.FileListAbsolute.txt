@@ -1,0 +1,15 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\bin\Debug\net8.0\OrdBurbuja.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\bin\Debug\net8.0\OrdBurbuja.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\bin\Debug\net8.0\OrdBurbuja.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\bin\Debug\net8.0\OrdBurbuja.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\bin\Debug\net8.0\OrdBurbuja.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\refint\OrdBurbuja.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\OrdBurbuja.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\OrdBurbuja\OrdBurbuja\obj\Debug\net8.0\ref\OrdBurbuja.dll

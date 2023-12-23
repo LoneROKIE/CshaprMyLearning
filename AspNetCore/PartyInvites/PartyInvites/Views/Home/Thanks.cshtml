@@ -10,22 +10,36 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width"/>
+        <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
         <title>Thanks!!!</title>
     </head>
     <body>
-        <div>
-            <h1>Thank you, @Model?.Name</h1>
-        @if(Model?.WillAttend == true)
-        {
-            @:It's greate that you're coming. Can't wait to see you!'
-        }
-        else
-        {
-            @: Sorry to hear that you can't make it, but thanks for letting us know.
-        }
+        <div class="card-text-center">
+          <div class="card-header">
+            <h3 class="card-tittle">Thank you, @Model?.Name</h3>
+          </div>
+
+           <div class="card-body">
+            <h5 class="card-tittle">
+            @if (Model?.WillAttend == true)
+            {
+                 @:It's great that you're coming. Can't wait to see you!' 
+            }
+            else
+            {
+                @: Sorry to hear that you can't make it, but thanks for letting us know.
+            }
+            </h5>
+           </div>
+
+        <div class="card-footer">
+            <p class="card-text"> Click <a asp-action="ListResponses">Here</a> to see who is coming </p>
+        </div>
+
     </div>
-        Click <a asp-action="ListResponses">Here</a> to see who is coming
-    </body>
+
+        
+</body>
 
 
 </html>

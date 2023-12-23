@@ -1,0 +1,17 @@
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\bin\Debug\net8.0-windows\Pomodoro.exe
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\bin\Debug\net8.0-windows\Pomodoro.deps.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\bin\Debug\net8.0-windows\Pomodoro.runtimeconfig.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\bin\Debug\net8.0-windows\Pomodoro.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\bin\Debug\net8.0-windows\Pomodoro.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.Form1.resources
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.csproj.GenerateResource.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.AssemblyInfoInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.AssemblyInfo.cs
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.csproj.CoreCompileInputs.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.sourcelink.json
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\refint\Pomodoro.dll
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.pdb
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\Pomodoro.genruntimeconfig.cache
+D:\Escritorio\Programas\Programas C# 2\CshaprMyLearning\Pomodoro\Pomodoro\obj\Debug\net8.0-windows\ref\Pomodoro.dll

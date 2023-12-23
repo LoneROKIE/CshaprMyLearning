@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x5FBDlIXrEOqOonvGLIoi74BVxclgc7BbFm+fMGQhQ0=",
+  "Hash": "jZlxL31FazRbZkqQT7kpqgr1jFNv+lgeHwu7JOaq2iQ=",
   "Source": "PartyInvites",
   "BasePath": "_content/PartyInvites",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Escritorio\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetCore\\PartyInvites\\PartyInvites\\wwwroot\\css\\Style.css",
+      "SourceId": "PartyInvites",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Escritorio\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetCore\\PartyInvites\\PartyInvites\\wwwroot\\",
+      "BasePath": "_content/PartyInvites",
+      "RelativePath": "css/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
       "Identity": "D:\\Escritorio\\Programas\\Programas C# 2\\CshaprMyLearning\\AspNetCore\\PartyInvites\\PartyInvites\\wwwroot\\favicon.ico",
